@@ -1,0 +1,1 @@
+This repo demonstrates the model application using SVM on one of the datasets provided by Sklearn.
